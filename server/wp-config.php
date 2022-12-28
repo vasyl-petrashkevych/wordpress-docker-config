@@ -19,7 +19,7 @@
  */
 //GET HOSTNAME INFO
 $hostname = $_SERVER['SERVER_NAME'];
-define( 'WP_ENV', $hostname === 'localhost' ? 'development' : 'production' );
+define( 'WP_ENV', strpos( $_SERVER['SERVER_NAME'], 'localhost' ) ? 'development' : 'production' );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */

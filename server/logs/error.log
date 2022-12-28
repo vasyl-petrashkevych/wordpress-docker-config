@@ -1,0 +1,108 @@
+[Sat Dec 24 18:28:15.672251 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Dec 24 18:28:15.672302 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 24 18:28:51.533751 2022] [php7:error] [pid 17] [client 172.18.0.1:36456] script '/var/www/index.php' not found or unable to stat
+[Sat Dec 24 18:28:51.732911 2022] [php7:error] [pid 17] [client 172.18.0.1:36456] script '/var/www/index.php' not found or unable to stat, referer: http://localhost:8101/
+[Sat Dec 24 18:44:21.100081 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html] does not exist
+AH00112: Warning: DocumentRoot [/var/www/html] does not exist
+[Sat Dec 24 18:45:36.708965 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Dec 24 18:45:36.709002 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 24 18:54:10.592248 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 24 18:54:12.933478 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sat Dec 24 18:54:12.933511 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 13:56:57.822712 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sun Dec 25 13:56:57.822855 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 25 14:01:36.206562 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 25 14:01:38.146078 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Sun Dec 25 14:01:38.146111 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Dec 25 14:18:28.021610 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 21:46:37.295011 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Dec 27 21:46:37.295098 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 21:47:05.068711 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 21:47:11.034927 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Dec 27 21:47:11.034968 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 21:48:09.319929 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 21:48:15.239095 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Dec 27 21:48:15.239132 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 21:48:54.530986 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 21:48:59.988567 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Tue Dec 27 21:48:59.988601 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 21:50:25.281686 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 21:58:13.346762 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 21:58:13.372044 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 21:58:13.375224 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 21:58:13.375304 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 22:22:04.431214 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 22:22:06.429764 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 22:22:06.448703 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 22:22:06.451558 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 22:22:06.451578 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:20:57.402451 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:21:04.511738 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:21:04.529376 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:21:04.532148 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:21:04.532172 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:25:42.026048 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:25:47.290133 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:25:47.312860 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:25:47.315949 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:25:47.315978 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:48:19.183939 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:50:01.413292 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:50:01.438404 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:50:01.441882 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:50:01.441910 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:50:57.675363 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:50:59.640801 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:50:59.655373 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:50:59.657813 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:50:59.657834 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:51:17.468093 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:51:24.974756 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:51:24.995372 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:51:24.998027 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:51:24.998050 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:51:29.217054 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:51:36.332161 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:51:36.347213 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:51:36.349646 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:51:36.349666 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:52:22.676490 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:52:28.648703 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:52:28.670780 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:52:28.674037 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:52:28.674061 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:52:49.194975 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:53:44.267740 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:53:44.283366 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:53:44.286436 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:53:44.286464 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:53:56.349743 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:54:03.558466 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:54:03.576487 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:54:03.579327 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:54:03.579356 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 27 23:55:01.586949 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Dec 27 23:55:08.264468 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 27 23:55:08.282159 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 27 23:55:08.284641 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Dec 27 23:55:08.284666 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
