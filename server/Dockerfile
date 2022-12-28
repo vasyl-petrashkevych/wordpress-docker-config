@@ -1,6 +1,8 @@
 FROM php:7.4-apache
 
 RUN a2enmod rewrite
+
+# For ssl certificate
 RUN a2enmod ssl && a2enmod socache_shmcb
 
 RUN docker-php-ext-install mysqli pdo pdo_mysql && docker-php-ext-enable pdo_mysql; \

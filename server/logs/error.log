@@ -1,0 +1,17 @@
+[Wed Dec 28 23:01:17.016736 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 23:01:26.181400 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 configured -- resuming normal operations
+[Wed Dec 28 23:01:26.181451 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 28 23:01:48.522393 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Dec 28 23:01:59.431806 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 23:01:59.448329 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 28 23:01:59.450937 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Dec 28 23:01:59.450959 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 28 23:22:01.770941 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Wed Dec 28 23:22:07.114402 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 28 23:22:07.136690 2022] [ssl:warn] [pid 1] AH01906: wisehunter.localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 28 23:22:07.139575 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.54 (Debian) PHP/7.4.33 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Dec 28 23:22:07.139600 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Dec 28 23:22:12.439676 2022] [php7:notice] [pid 20] [client 127.0.0.1:42366] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}, referer: https://wisehunter.localhost/wp-cron.php?doing_wp_cron=1672269732.2765109539031982421875
